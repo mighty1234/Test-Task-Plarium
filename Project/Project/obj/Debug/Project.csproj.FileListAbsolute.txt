@@ -1,0 +1,10 @@
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Vlad\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Vlad\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Vlad\source\repos\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
