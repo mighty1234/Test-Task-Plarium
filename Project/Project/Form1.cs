@@ -53,6 +53,11 @@ namespace Project
                 }
 
             }
+            if (buffer.Count!=0)
+            {
+            Save(buffer);
+            buffer.Clear();           
+            }
         }
         public void Save(List<string> logModels)
         {
